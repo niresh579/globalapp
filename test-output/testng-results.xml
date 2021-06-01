@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-27T07:15:53Z" name="Default suite" finished-at="2021-01-27T07:23:55Z" duration-ms="481998">
+    <groups>
+    </groups>
+    <test started-at="2021-01-27T07:15:53Z" name="Default test" finished-at="2021-01-27T07:23:55Z" duration-ms="481998">
+      <class name="paki.APP.Registration1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:paki.APP.Registration1@5717c37]" started-at="2021-01-27T12:45:53Z" name="setUp" finished-at="2021-01-27T12:46:04Z" duration-ms="11242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testUntitled()[pri:0, instance:paki.APP.Registration1@5717c37]" started-at="2021-01-27T12:46:04Z" name="testUntitled" finished-at="2021-01-27T12:53:51Z" duration-ms="466908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitled -->
+        <test-method is-config="true" signature="screenShot(org.testng.ITestResult)[pri:0, instance:paki.APP.Registration1@5717c37]" started-at="2021-01-27T12:53:51Z" name="screenShot" finished-at="2021-01-27T12:53:51Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testUntitled status=SUCCESS method=Registration1.testUntitled()[pri:0, instance:paki.APP.Registration1@5717c37] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:paki.APP.Registration1@5717c37]" started-at="2021-01-27T12:53:51Z" name="tearDown" finished-at="2021-01-27T12:53:55Z" duration-ms="3841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- paki.APP.Registration1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

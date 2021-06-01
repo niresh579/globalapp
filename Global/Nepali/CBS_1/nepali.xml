@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.testscripts.SortScrollTest"/>
+      <class name="com.testscripts.WhoShortlistedBannerTest"/>
+      <class name="com.testscripts.InboxTest2"/>
+      <class name="com.testscripts.ShortListViewProfile"/>
+      <class name="com.testscripts.MyHomeMatchesCountTest"/>
+      <class name="com.testscripts.ViewProfileRequestTest"/>
+      <class name="com.testscripts.ProfileViewNotContacted"/>
+      <class name="com.testscripts.Date_Created_Scroll"/>
+      <class name="com.testscripts.ShortListTest"/>
+      <class name="com.testscripts.WhoViewedMyProfileTest"/>
+      <class name="com.testscripts.Negativeregistar"/>
+      <class name="com.testscripts.PhotoViewTest"/>
+      <class name="com.testscripts.Negativelogin"/>
+      <class name="com.testscripts.ShortListViewProfile2"/>
+      <class name="com.testscripts.WhoShortListeMeTest"/>
+      <class name="com.testscripts.WhoViewMyMobileNoTest"/>
+      <class name="com.testscripts.ViewHoroscopeTest"/>
+      <class name="com.testscripts.InboxCount"/>
+      <class name="com.testscripts.IntrestPendingBannerTest"/>
+      <class name="com.testscripts.IntrestReceivedTest"/>
+      <class name="com.testscripts.ShortlistedMeScroll"/>
+      <class name="com.testscripts.PaymentBanner"/>
+      <class name="com.testscripts.ViewProfileScrollTest"/>
+      <class name="com.testscripts.Block"/>
+      <class name="com.testscripts.EditProfileTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
